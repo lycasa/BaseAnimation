@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: /home/andev4/Downloads/BaseAnimation1.3版本/BaseAnimation/src/com/sina/sso/RemoteSSO.aidl
+ * Original file: D:\\Github\\Git\\repository\\BaseAnimation\\baseanimation\\BaseAnimation\\src\\com\\sina\\sso\\RemoteSSO.aidl
  */
 package com.sina.sso;
 public interface RemoteSSO extends android.os.IInterface
