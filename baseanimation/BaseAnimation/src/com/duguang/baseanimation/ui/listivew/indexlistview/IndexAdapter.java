@@ -328,6 +328,12 @@ class IndexAdapter extends SimpleAdapter implements SectionIndexer{
 			// TODO Auto-generated method stub
 			return null;
 		}
+
+    @Override
+    public Uri getNotificationUri() {
+      // TODO Auto-generated method stub
+      return null;
+    }
         
     }
 }
